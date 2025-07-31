@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: expenses-app
-        image: gangwarnishant/expense-app:01
+        image: gangwarnishant/expenses-tracker-app:v1
         ports:
         - containerPort: 8080
         env:
