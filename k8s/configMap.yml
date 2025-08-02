@@ -5,6 +5,7 @@ metadata:
 data:
   url: "jdbc:mysql://mysql:3306/expenses_tracker?allowPublicKeyRetrieval=true&useSSL=false"
   username: "root"
+  MYSQL_DB: "expenses_tracker"
   
 
 
